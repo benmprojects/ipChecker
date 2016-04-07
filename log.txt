@@ -1,10 +1,7 @@
 
-7/04/2016 3:40:22 PM - Trying to ping 192.168.1.222 - Failed Wetek is down
-7/04/2016 3:40:23 PM - Trying to ping 192.168.11.51 - Failed Room is down
-7/04/2016 3:40:24 PM - No Clients are up server is shutting down!!!!
-7/04/2016 3:42:22 PM - Trying to ping 192.168.1.222 - Failed Wetek is down
-7/04/2016 3:42:23 PM - Trying to ping 192.168.11.51 - Failed Room is down
-7/04/2016 3:42:24 PM - No Clients are up server is shutting down!!!!
-7/04/2016 3:44:32 PM - Trying to ping 192.168.1.222 - Failed Wetek is down
-7/04/2016 3:44:33 PM - Trying to ping 192.168.11.51 - Failed Room is down
-7/04/2016 3:44:34 PM - No Clients are up server is shutting down!!!!
+7/04/2016 4:40:26 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
+7/04/2016 4:40:27 PM - Trying to ping 192.168.1.51 - Succuess, trip time 35ms Room is up
+7/04/2016 4:42:27 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
+7/04/2016 4:42:28 PM - Trying to ping 192.168.1.51 - Succuess, trip time 27ms Room is up
+7/04/2016 4:44:28 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
+7/04/2016 4:44:29 PM - Trying to ping 192.168.1.51 - Succuess, trip time 34ms Room is up

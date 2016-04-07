@@ -1,0 +1,1 @@
+%~dp0putty.exe -ssh root@192.168.32.222 22 -pw "Ret5aM321" -m  "%~dp0command.txt"

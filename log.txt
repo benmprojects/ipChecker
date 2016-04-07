@@ -1,0 +1,2 @@
+
+7/04/2016 10:36:41 AM - Trying to ping 192.168.1.49 - Failed Wetek is down

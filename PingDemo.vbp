@@ -1,7 +1,7 @@
 Type=Exe
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Reference=*\G{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}#1.0#0#..\..\..\..\Windows\SysWOW64\wshom.ocx#Windows Script Host Object Model
-Reference=*\G{F5078F18-C551-11D3-89B9-0000F81FE221}#4.0#0#..\..\..\..\WINDOWS\SysWOW64\msxml4.dll#Microsoft XML, v4.0
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Reference=*\G{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}#1.0#0#..\..\..\..\..\Windows\SysWOW64\wshom.ocx#Windows Script Host Object Model
+Reference=*\G{F5078F18-C551-11D3-89B9-0000F81FE221}#4.0#0#..\..\..\..\..\Windows\SysWOW64\msxml4.dll#Microsoft XML, v4.0
 Form=Form1.frm
 Class=PingIPv4; PingIPv4.cls
 Module=Module1; Module1.bas

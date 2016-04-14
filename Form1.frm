@@ -71,7 +71,7 @@ Public sSetting1 As String
 Public sSetting2 As String
 Private PingIPv4 As PingIPv4
 Private Declare Sub Sleep Lib "kernel32.dll" (ByVal dwMilliseconds As Long)
-
+Public runtimeex
 
 Private Sub PingCheck(IP As String, Description As String)
     Set PingIPv4 = New PingIPv4
@@ -122,15 +122,6 @@ Private Function Notification(ByVal URL As String) As String
 
 End Function
 
-Private Sub Command1_Click()
-Text1.SelStart = Len(Text1.Text)
-Text1.SelText = vbCrLf & "Some Text Here"
-End Sub
-
-Private Sub Command2_Click()
-Text1.SelText = vbCrLf & "dsdfsdf"
-End Sub
-
 Private Sub Form_Load()
     
     sSetting1 = GetINISetting("Wetek", "IP", App.Path & "\SETTINGS.INI")
@@ -143,10 +134,10 @@ Private Sub Form_Load()
     notif = Notification("http://" & sSetting1 & "/jsonrpc?request={""jsonrpc"":""2.0"",""method"":""GUI.ShowNotification"",""params"":{""title"":""IsUp"",""message"":""Server IsUp""},""id"":1}")
     Text1.SelText = vbCrLf & Now & " - JSON response from  " & sSetting1 & " " & notif
     notif = Notification("http://" & sSetting2 & "/jsonrpc?request={""jsonrpc"":""2.0"",""method"":""GUI.ShowNotification"",""params"":{""title"":""IsUp"",""message"":""Server IsUp""},""id"":1}")
-    Text1.SelText = vbCrLf & Now & " - JSON response from" & sSetting2 & " " & notif
+    Text1.SelText = vbCrLf & Now & " - JSON response from " & sSetting2 & " " & notif
     Call savelog
     dattimer = DateAdd("n", 2, Now)
-    AppRunTime = DateAdd("n", 180, Now)
+    runtimeex = DateAdd("n", 180, Now)
     Timer1.Interval = 10000
     Timer1.Enabled = True
 
@@ -157,7 +148,7 @@ Private Sub Timer1_Timer()
 Dim oshell As WshShell
 Dim ShellCommand As Long
 Dim strShellCommand1 As String
-
+'Dim lMinutes As Long
 
 
  
@@ -165,8 +156,13 @@ Dim strShellCommand1 As String
     
     'Text1.Text = Text1.Text & vbCrLf & Now & " The server has been up for " & AppRunTime - Now
     
-    If Now <= AppRunTime Then
-        dattimer2 = DateAdd("n", 1, Now)
+  
+
+
+    
+    
+    If DateDiff("n", Now, runtimeex) < 0 Then
+        godown = 2
         Timer2.Enabled = True
     End If
 
@@ -185,7 +181,7 @@ Dim strShellCommand1 As String
         notif = Notification("http://" & sSetting2 & "/jsonrpc?request={""jsonrpc"":""2.0"",""method"":""GUI.ShowNotification"",""params"":{""title"":""IsUp"",""message"":""No Clients are up, server is shutting down!!!!""},""id"":1}")
         Text1.SelText = vbCrLf & Now & " - JSON response from " & sSetting2 & " " & notif
         Call savelog
-        ShellCommand = oshell.Run("C:\WINDOWS\system32\shutdown.exe -s -t 0", vbNormalFocus, vbTrue)
+       ' ShellCommand = oshell.Run("C:\WINDOWS\system32\shutdown.exe -s -t 0", vbNormalFocus, vbTrue)
         dattimer2 = DateAdd("n", 1, Now)
         Timer2.Enabled = True
         Timer1.Enabled = False

@@ -64,7 +64,6 @@ Attribute VB_Exposed = False
 Option Explicit
 Public godown As Integer
 Public dattimer
-Public AppRunTime
 Public notif
 Public dattimer2
 Public sSetting1 As String
@@ -156,11 +155,7 @@ Dim strShellCommand1 As String
     
     'Text1.Text = Text1.Text & vbCrLf & Now & " The server has been up for " & AppRunTime - Now
     
-  
 
-
-    
-    
     If DateDiff("n", Now, runtimeex) < 0 Then
         godown = 2
         Timer2.Enabled = True

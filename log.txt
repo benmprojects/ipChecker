@@ -106,3 +106,7 @@
 14/04/2016 3:53:35 PM - Sending notification to Kodi clients 
 14/04/2016 3:53:35 PM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
 14/04/2016 3:53:38 PM - JSON response from192.168.1.51 
+14/04/2016 7:52:30 PM - IsUp is Running
+14/04/2016 7:52:30 PM - Sending notification to Kodi clients 
+14/04/2016 7:52:30 PM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+14/04/2016 7:52:33 PM - JSON response from 192.168.1.51 

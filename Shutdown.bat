@@ -1,1 +1,1 @@
-shutdown /s /force /t 10
+shutdowns /s /force /t 10

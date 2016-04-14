@@ -1,7 +1,104 @@
 
-7/04/2016 4:40:26 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
-7/04/2016 4:40:27 PM - Trying to ping 192.168.1.51 - Succuess, trip time 35ms Room is up
-7/04/2016 4:42:27 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
-7/04/2016 4:42:28 PM - Trying to ping 192.168.1.51 - Succuess, trip time 27ms Room is up
-7/04/2016 4:44:28 PM - Trying to ping 192.168.1.49 - Failed Wetek is down
-7/04/2016 4:44:29 PM - Trying to ping 192.168.1.51 - Succuess, trip time 34ms Room is up
+8/04/2016 10:41:25 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:41:26 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:41:27 PM - No Clients are up server is shutting down!!!!
+
+8/04/2016 10:48:34 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+
+8/04/2016 10:48:34 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:48:34 PM - Trying to ping 192.168.1.88 - Failed Room is down
+
+8/04/2016 10:48:34 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:48:34 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:48:35 PM - No Clients are up server is shutting down!!!!
+
+8/04/2016 10:50:47 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+
+8/04/2016 10:50:47 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:50:47 PM - Trying to ping 192.168.1.88 - Failed Room is down
+
+8/04/2016 10:50:47 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:50:47 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:50:48 PM - No Clients are up server is shutting down!!!!
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Room is down
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:55:23 PM - No Clients are up server is shutting down!!!!
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:55:23 PM - No Clients are up server is shutting down!!!!
+8/04/2016 10:57:40 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:55:23 PM - No Clients are up server is shutting down!!!!
+8/04/2016 10:57:40 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:57:46 PM - Trying to ping 192.168.1.88 - Failed Room is down
+
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:55:22 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:55:23 PM - No Clients are up server is shutting down!!!!
+8/04/2016 10:57:40 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 10:57:46 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 10:57:52 PM - No Clients are up server is shutting down!!!!
+
+8/04/2016 11:00:05 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+
+8/04/2016 11:00:05 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 11:00:06 PM - Trying to ping 192.168.1.88 - Failed Room is down
+
+8/04/2016 11:00:05 PM - Trying to ping 192.168.1.88 - Failed Wetek is down
+8/04/2016 11:00:06 PM - Trying to ping 192.168.1.88 - Failed Room is down
+8/04/2016 11:00:07 PM - No Clients are up server is shutting down!!!!
+
+9/04/2016 11:43:10 PM Sending notification to Kodi clients 
+9/04/2016 11:43:52 PM JSON response 
+
+9/04/2016 11:44:18 PM Sending notification to Kodi clients 
+9/04/2016 11:45:00 PM JSON response 
+
+9/04/2016 11:55:52 PM Sending notification to Kodi clients 
+9/04/2016 11:56:13 PM JSON response from  192.168.1.88 
+9/04/2016 11:56:34 PM JSON response from192.168.1.88 
+
+9/04/2016 11:57:36 PM Sending notification to Kodi clients 
+9/04/2016 11:57:57 PM JSON response from  192.168.1.66 
+9/04/2016 11:57:58 PM JSON response from192.168.1.51 
+
+10/04/2016 11:13:35 AM - Sending notification to Kodi clients 
+10/04/2016 11:13:35 AM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+10/04/2016 11:13:56 AM - JSON response from192.168.1.51 
+10/04/2016 11:21:50 AMIsUp is Running
+10/04/2016 11:21:50 AM - Sending notification to Kodi clients 
+10/04/2016 11:21:50 AM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+10/04/2016 11:22:11 AM - JSON response from192.168.1.51 
+10/04/2016 11:23:43 AMIsUp is Running
+10/04/2016 11:23:43 AM - Sending notification to Kodi clients 
+10/04/2016 11:23:43 AM - JSON response from  192.168.1.66 
+10/04/2016 11:23:43 AM - JSON response from192.168.1.51 
+10/04/2016 11:24:03 AMIsUp is Running
+10/04/2016 11:24:03 AM - Sending notification to Kodi clients 
+10/04/2016 11:24:03 AM - JSON response from  192.168.1.66 
+10/04/2016 11:24:03 AM - JSON response from192.168.1.51 
+10/04/2016 11:25:32 AMIsUp is Running
+10/04/2016 11:25:32 AM - Sending notification to Kodi clients 
+10/04/2016 11:25:32 AM - JSON response from  192.168.1.66 
+10/04/2016 11:25:32 AM - JSON response from192.168.1.51 
+10/04/2016 11:27:20 AM - IsUp is Running
+10/04/2016 11:27:20 AM - Sending notification to Kodi clients 
+10/04/2016 11:27:20 AM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+10/04/2016 11:27:41 AM - JSON response from192.168.1.51 
+10/04/2016 11:27:56 AM - IsUp is Running
+10/04/2016 11:27:56 AM - Sending notification to Kodi clients 
+10/04/2016 11:28:03 AM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+10/04/2016 11:28:43 AM - JSON response from192.168.1.51 
+10/04/2016 11:29:10 AM - IsUp is Running
+10/04/2016 11:29:10 AM - Sending notification to Kodi clients 
+10/04/2016 11:29:10 AM - JSON response from  192.168.1.66 {"id":1,"jsonrpc":"2.0","result":"OK"}
+10/04/2016 11:29:33 AM - JSON response from192.168.1.51 
